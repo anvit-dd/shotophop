@@ -8,4 +8,5 @@
 pyvenv.cfg
 .venv
 ./venv
+./Presets
 pip-selfcheck.json
