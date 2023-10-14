@@ -61,7 +61,7 @@ button_lis = [
     Button(screen, "LemonChiffon", (width - 550), paint.height + 50, color_button_width, color_button_height, 0, "",20),
     Button(screen, "YellowGreen", (width - 530), paint.height + 50, color_button_width, color_button_height, 0, "", 20),
     Button(screen, "PaleGreen", (width - 510), paint.height + 50, color_button_width, color_button_height, 0, "", 20),
-    Button(screen, "SpringGreen", (width - 490), paint.height + 50, color_button_width, color_button_height, 0, "", 20),
+    Button(screen, "Aquamarine", (width - 490), paint.height + 50, color_button_width, color_button_height, 0, "", 20),
     Button(screen, "PaleTurquoise", (width - 470), paint.height + 50, color_button_width, color_button_height, 0, "", 20),
     Button(screen, "CornflowerBlue", (width - 450), paint.height + 50, color_button_width, color_button_height, 0, "", 20),
     Button(screen, "MediumPurple", (width - 430), paint.height + 50, color_button_width, color_button_height, 0, "", 20),
