@@ -45,7 +45,7 @@ mouse_pressed = False
 WHITE = (255, 255, 255)
 BLACK = (0, 0, 0)
 
-menu_color = (40, 40, 40)
+menu_color = (30, 30, 30)
 
 top = tkinter.Tk()
 top.withdraw()
